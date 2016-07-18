@@ -1,14 +1,14 @@
 # resources
-# a personal collection of friendly tools & frameworks for development
 
-
-# web oriented
-## php-frameworks
-
+# web
+## backend
+### php-frameworks
 http://cakephp.org/
 
+### java-frameworks 
+https://www.playframework.com/
 
-## front end
+## frontend
 ### BlazeCSS
 https://github.com/BlazeCSS/blaze
 
