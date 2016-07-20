@@ -12,6 +12,9 @@ https://www.playframework.com/
 ### BlazeCSS
 https://github.com/BlazeCSS/blaze
 
+# DB
+... https://www.rethinkdb.com/ 
+
 # AV 
 ## multimedia 
 
