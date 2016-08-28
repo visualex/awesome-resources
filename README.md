@@ -8,6 +8,9 @@ http://cakephp.org/
 ### java-frameworks 
 https://www.playframework.com/
 
+### nodejs-frameworks
+http://sailsjs.org/
+
 ## frontend
 ### BlazeCSS
 https://github.com/BlazeCSS/blaze
