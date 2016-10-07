@@ -15,6 +15,9 @@ https://www.playframework.com/
 ### nodejs-frameworks
 http://sailsjs.org/
 
+### c++ APIs
+http://siliconframework.org/
+
 ## frontend
 ### BlazeCSS
 https://github.com/BlazeCSS/blaze
