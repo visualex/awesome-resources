@@ -1,39 +1,37 @@
-# resources
+resources
+===========
 
-# web
-## backend
+## web backend frameworks
 
-### swift-frameworks
-https://github.com/PerfectlySoft/Perfect
+### swift
+* https://github.com/PerfectlySoft/Perfect
 
-### php-frameworks
-http://cakephp.org/
+### php
+* http://cakephp.org/
 
-### java-frameworks 
-https://www.playframework.com/
+### java
+* https://www.playframework.com/
 
-### nodejs-frameworks
+### nodejs
 http://sailsjs.org/
 
 ### c++ APIs
-http://siliconframework.org/
+* http://siliconframework.org/
+
+## queue
+* http://queues.io/
 
 ## frontend
 ### BlazeCSS
 https://github.com/BlazeCSS/blaze
 
 # DB
-... https://www.rethinkdb.com/ 
+* https://www.rethinkdb.com/ 
 
 # AV 
 ## multimedia 
 
-### Ableton Link
-https://github.com/Ableton/link
-
-### Open Frameworks 
-http://openframeworks.cc/
-
-### wdl-ol
-Cross platform audio plugins
-https://github.com/olilarkin/wdl-ol
+* https://github.com/Ableton/link
+* http://openframeworks.cc/
+* Cross platform audio plugins
+  https://github.com/olilarkin/wdl-ol
