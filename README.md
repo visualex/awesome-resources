@@ -35,3 +35,5 @@ https://github.com/BlazeCSS/blaze
 * http://openframeworks.cc/
 * Cross platform audio plugins
   https://github.com/olilarkin/wdl-ol
+  
+* http://www.music.mcgill.ca/~gary/307/week3/reverb.html
